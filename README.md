@@ -1,4 +1,4 @@
-# Dashboard.mq4
+#MQL4 Dashboard
 
 ## Overview
 
